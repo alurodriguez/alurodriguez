@@ -1,1 +1,1 @@
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="124" height="124"/>
+![Whispering...](https://github.githubassets.com/images/mona-whisper.gif)
